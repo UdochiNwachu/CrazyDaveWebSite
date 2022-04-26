@@ -19,12 +19,17 @@
 		
 		<ul>
 		<h1>The Studio</h1>
-		<li><a href="../working/daveshopindex.html">Home</a></li>
+		<li><a href="../working/daveshophome.html">Home</a></li>
 		<li><a href="../working/daveshopservices.html">Our Services</a></li>
 		<li><a href="../working/daveshopcontact.html">Contact Us</a></li>
+		<li><a href="../working/daveshoplocation.html">Location</a></li>
+		<li><a href="../working/daveshopphotos.html">Photos</a></li>
+		<li><a href="../working/daveshopfeedback.html">Feedback</a></li>
+		<li><a href="../working/sitemap.html">Sitemap</a></li>
+		<li><a href="../working/daveshopcredits.html">Credits</a></li>
 		<h1>Crazy Dave</h1>
-		<li><a href="../working/daveshopabout.html">Who Is Crazy Dave?</a></li>
-		<li><a href = "../working/daveshopnews.html">Dave In The News</a></li>
+		<li><a href="../working/daveshopwhoiscrazydave.html">Who Is Crazy Dave?</a></li>
+		<li><a href="../working/daveinthenews.html">Dave In The News</a></li>
 		</ul>
 			
 	</nav>
