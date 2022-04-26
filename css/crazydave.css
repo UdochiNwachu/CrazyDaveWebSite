@@ -182,6 +182,8 @@ footer {
 	background-color: #B3B3B3;
 	padding-top: 60px;
 	padding-bottom: 60PX;
+	postion: absolute;
+	bottom: 0;
 }
 .intro {
 	display: inline-block;
