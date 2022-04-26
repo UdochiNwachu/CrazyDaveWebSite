@@ -26,8 +26,7 @@
 		<h1>Crazy Dave</h1>
 		<li><a href="#">Who Is Crazy Dave?</a></li>
 		<li><a href = "#">Dave In The News</a></li>
-		<h1>The Hours</h1>
-			<p><b>Mon, Wed, and Thurs</b><br>10:30AM - 6:00PM<br><b>Tuesday</b><br>By Appointment<b><br>Friday</b><br>10:30AM - 6:00PM<b><br>Saturday</b><br>9:00AM - 5:00PM<br><b>Sunday</b><br>Cold</p>
+		
 		</ul>
 	</nav>
 	<!-- TemplateEndEditable -->
@@ -49,7 +48,8 @@
 	  </main>
 	
 	  <aside>
-		<!-- TemplateBeginEditable name="rightpanelsidebar" -->rightpanelsidebar<!-- TemplateEndEditable --></aside>
+		<!-- TemplateBeginEditable name="rightpanelsidebar" --><h1>The Hours</h1>
+			<p><b>Mon, Wed, and Thurs</b><br>10:30AM - 6:00PM<br><b>Tuesday</b><br>By Appointment<b><br>Friday</b><br>10:30AM - 6:00PM<b><br>Saturday</b><br>9:00AM - 5:00PM<br><b>Sunday</b><br>Cold</p><!-- TemplateEndEditable --></aside>
 	
 		<footer> <a href="#">Home</a> | <a href="#">Prices/Services</a> <a href = "(678) 355 - 1000"> | Contact </a> <a href = "#"> | Sitemap</a> <br />
   Crazy Dave Hair Studio Copyright &copy; 2022 <br />
