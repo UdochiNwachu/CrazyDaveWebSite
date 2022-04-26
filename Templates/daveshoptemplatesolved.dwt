@@ -1,6 +1,7 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
+	
 <meta charset="utf-8">
 <!-- TemplateBeginEditable name="doctitle" -->
 <title>Crazy Dave- Template </title>
@@ -11,8 +12,7 @@
 <body>
 	<div class="container">
 	<header>
-	  <img src="../images/crazy dave logo.png" width="1089" height="113" alt="Crazy Dave Logo" title="Crazy Dave Logo"/>
-	</header>
+	  <img src="../images/crazy dave logo.png" width="1089" height="113" alt="Crazy Dave Logo" title="Crazy Dave Logo"/></header>
 	
 
 	<nav>
