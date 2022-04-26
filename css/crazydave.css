@@ -304,7 +304,7 @@ aside {
 }
 
 footer {
-	background: #B9EBB3;
+	background: #E4D8D8;
 	grid-area: footer;
 	border-radius: var(--main-radius);
 	padding: var(--main-padding);
