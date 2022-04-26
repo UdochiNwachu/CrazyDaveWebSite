@@ -354,3 +354,43 @@ nav {
 	border-radius:var(--main-radius);
 	padding:var(--main-padding);
 }
+
+a {
+	text-decoration:none;
+}
+a:link {
+	color:black;
+}
+a:visited {
+	color:green;
+}
+	
+a:hover {
+	color:#F44856;
+}
+
+nav ul li {
+	
+	display:inline-block;
+	margin: 10px 10px 10px 10px;
+	
+}
+	
+nav ul li a{
+	background:#FFFFFF;
+	padding:2px 10px 2px 10px;
+	font-size:20px;
+	text-decoration:none;
+	font-weight:bold;
+	color:#E79E9F;
+	border-radius:10px 10px 10px 10px;
+	
+}
+	
+nav ul {
+	list-style:none;
+}	
+
+nav ul li a:hover {
+	background:#FFFFFF;
+}
