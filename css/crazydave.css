@@ -394,3 +394,23 @@ nav ul {
 nav ul li a:hover {
 	background:#FFFFFF;
 }
+
+.flex-container {
+    display: flex;
+    background-color: white;
+    text-align: center;
+}
+
+.flex-container > div {
+ 	background-color: #f1f1f1;
+ 	margin: 10px;
+ 	padding: 20px;
+ 	font-size: 30px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
